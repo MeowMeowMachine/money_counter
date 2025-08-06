@@ -1,0 +1,34 @@
+{
+    "currency": "EUR",
+    "income": 15,
+    "goal": 3100,
+    "Autoprogress": true,
+    "Keys": 
+    {
+        "StartStopSession": "F11",
+        "SaveProgress": "F12"
+
+    },
+    "Sounds":
+    {
+        "Dollarsound": "sounds/dollar.wav",
+        "Projectsound": "sounds/project.wav",
+        "goalsound": "sounds/goal.wav"
+    },
+    "GUI":
+    {
+        "Formatting":
+        {
+            "Color": "#00FF00",
+            "Font": "Arial",
+            "FontSize": 12
+        },
+        "Layout":
+        {
+            "Width": 800,
+            "Height": 600,
+            "PositionX": 100,
+            "PositionY": 100
+        }
+    }
+}
