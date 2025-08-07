@@ -1,19 +1,25 @@
 {
     "currency": "EUR",
-    "income": 15,
+    "income": 1800,
     "goal": 3100,
     "Autoprogress": true,
     "Keys": 
     {
-        "StartStopSession": "F11",
+        "StartStopSession": "F7",
         "SaveProgress": "F12"
 
     },
     "Sounds":
     {
         "Dollarsound": "sounds/dollar.wav",
-        "Projectsound": "sounds/project.wav",
-        "goalsound": "sounds/goal.wav"
+        "hoursound": "sounds/hour.wav",
+        "goalsound": "sounds/goal.wav",
+        "evenmoredollarsound": "sounds/evenmoredollars.wav",
+        "trigger": {
+            "Dollar": 1,
+            "evenmoredollars": 10,
+            "hour": 1
+        }
     },
     "GUI":
     {
