@@ -169,7 +169,7 @@ Designed to be unobtrusive and highly configurable, it features:
 |-----------------------|--------------------|
 | Start / Pause         | `F7` (toggle)      |
 | Save progress & exit  | `F12`              |
-| Emergency exit        | `CTRL + AltGr`     |
+| Emergency exit        | `CTRL + AltGr`     | ! <Exiting> is only possible via keybind or stopping script due to internal logic > !
 
 *Hotkeys are configurable in `config.json`.*
 
