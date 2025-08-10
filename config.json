@@ -1,6 +1,6 @@
 {
     "currency": "EUR",
-    "income": 1800,
+    "income": 15,
     "goal": 3100,
     "Autoprogress": true,
     "Keys": 
@@ -25,16 +25,18 @@
     {
         "Formatting":
         {
-            "Color": "#00FF00",
+            "Color": "#777d77",
             "Font": "Arial",
-            "FontSize": 12
+            "FontSize": 36
         },
         "Layout":
         {
-            "Width": 800,
-            "Height": 600,
-            "PositionX": 100,
-            "PositionY": 100
+            "Width": 400,
+            "Height": 200,
+            "PositionX": 0,
+            "PositionY": 20,
+            "Title": "Money Counter",
+            "Overlapping": true
         }
     }
 }
